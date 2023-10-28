@@ -19,5 +19,5 @@ If you encounter the bugs while using this code, please do not hesitate to conta
 If this work is helpful to you, please cite our paper: 
 Haiyang Wu, Cuiping Shi & Liguo Wang (2023) GDPA_LDSICS: graph and double pyramid attention network based on linear discrimination of spectral interclass slices for hyperspectral image classification, International Journal of Remote Sensing, 44:17, 5283-5312, DOI: 10.1080/01431161.2023.2247523
 
-If emergency, you can also add my email: 17398893383@163.com or QQ: 1752436056.
+If emergency, you can also add my email: 17398893383@163.com.
 
